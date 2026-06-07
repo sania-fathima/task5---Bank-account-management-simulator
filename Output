@@ -1,0 +1,163 @@
+===== BANK ACCOUNT SIMULATION =====
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Check Balance
+6. Account Details
+7. Transaction History
+8. Add Interest
+9. Exit
+Enter Choice: 1
+Account Number: 1234
+Account Holder Name: saan
+Initial Deposit: 2000
+1. Savings Account
+2. Current Account
+1
+Savings Account Created.
+
+===== BANK ACCOUNT SIMULATION =====
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Check Balance
+6. Account Details
+7. Transaction History
+8. Add Interest
+9. Exit
+Enter Choice: 1
+Account Number: 9876
+Account Holder Name: zaan
+Initial Deposit: 2500
+1. Savings Account
+2. Current Account
+2
+Current Account Created.
+
+===== BANK ACCOUNT SIMULATION =====
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Check Balance
+6. Account Details
+7. Transaction History
+8. Add Interest
+9. Exit
+Enter Choice: 4
+Sender Account: 1234
+Receiver Account: 9876
+Transfer Amount: 500
+Transfer Successful.
+
+===== BANK ACCOUNT SIMULATION =====
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Check Balance
+6. Account Details
+7. Transaction History
+8. Add Interest
+9. Exit
+Enter Choice: 3
+Account Number: 9876
+Amount to Withdraw: 200
+Withdrawal Successful.
+
+===== BANK ACCOUNT SIMULATION =====
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Check Balance
+6. Account Details
+7. Transaction History
+8. Add Interest
+9. Exit
+Enter Choice: 6
+Account Number: 1234
+
+Account Number : 1234
+Account Holder : saan
+Balance        : ₹1500.0
+
+===== BANK ACCOUNT SIMULATION =====
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Check Balance
+6. Account Details
+7. Transaction History
+8. Add Interest
+9. Exit
+Enter Choice: 6
+Account Number: 9876
+
+Account Number : 9876
+Account Holder : zaan
+Balance        : ₹2800.0
+
+===== BANK ACCOUNT SIMULATION =====
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Check Balance
+6. Account Details
+7. Transaction History
+8. Add Interest
+9. Exit
+Enter Choice: 8
+Account Number: 9876
+Interest only for Savings Accounts.
+
+===== BANK ACCOUNT SIMULATION =====
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Check Balance
+6. Account Details
+7. Transaction History
+8. Add Interest
+9. Exit
+Enter Choice: 8
+Account Number: 1234
+Interest Added: ₹60.0
+
+===== BANK ACCOUNT SIMULATION =====
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Check Balance
+6. Account Details
+7. Transaction History
+8. Add Interest
+9. Exit
+Enter Choice: 7
+Account Number: 9876
+
+Transaction History:
+Account created with balance ₹2500.0
+Received ₹500.0 from Account 1234
+Withdrawn ₹200.0
+
+===== BANK ACCOUNT SIMULATION =====
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Check Balance
+6. Account Details
+7. Transaction History
+8. Add Interest
+9. Exit
+Enter Choice:  9
+Thank You!
+
+Process finished with exit code 0

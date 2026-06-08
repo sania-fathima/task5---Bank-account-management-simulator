@@ -1,4 +1,4 @@
-# task5---Bank-account-management-simulator
+# Bank Account Management Simulator
 ## Overview
 
 The Bank Account Simulation System is a menu-driven Java application designed to simulate basic banking operations in a real-world environment. Users can create Savings and Current Accounts, perform deposits and withdrawals, transfer funds between accounts, check balances, and view transaction histories. The project leverages Object-Oriented Programming concepts such as inheritance, encapsulation, polymorphism, and method overriding to model different account behaviors. Additional features such as interest calculation for savings accounts and overdraft facilities for current accounts enhance the realism of the banking simulation.
